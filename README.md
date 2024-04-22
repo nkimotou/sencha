@@ -1,7 +1,8 @@
-# sencha
-# C Primer (Under Construction)
+# Welcome to the C Primer repository! This project is a work in progress, aiming to provide a comprehensive and beginner-friendly introduction to the C programming language. Whether you're a programming novice or looking to enhance your skills with C, this primer is designed to guide you through the fundamentals.
 
-Welcome to the C Primer repository! This project is a work in progress, aiming to provide a comprehensive and beginner-friendly introduction to the C programming language. Whether you're a programming novice or looking to enhance your skills with C, this primer is designed to guide you through the fundamentals.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdzaWJxZ2J0ODgzd3llaHA4Zm40aHNxb2MxNWN5ODQzYTQzdGEwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J26E2bJbXfmdTaZwEo/giphy.gif" width = "300"/>
+</div>
 
 ## Table of Contents
 
@@ -101,12 +102,3 @@ Explore more advanced file I/O operations, including seeking within files, error
 
 Learn techniques for effective error handling in file operations. Discover how to handle exceptions and gracefully manage errors in your programs.
 
-## License
-
-This primer is licensed under the [MIT License](LICENSE.md). Feel free to use and modify the content for your learning purposes.
-
-Happy coding!
-
----
-
-**Note:** This primer is currently under construction. Regular updates will be made to add new content and improve existing sections. Your feedback is crucial in shaping the future of this resource. Check back for the latest information and improvements.
